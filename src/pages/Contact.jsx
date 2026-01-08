@@ -37,11 +37,11 @@ const Contact = () => {
           </motion.div>
           <div>
             <p>Email</p>
-            <h1 className="font-bold">sheha8757@gmail.com</h1>
+            <h1 className="font-bold">joesheha8757@gmail.com</h1>
           </div>
         </div>
         <div className="card flex flex-row gap-5 bg-gray-100 text-gray-700 p-4 w-100">
-            <motion.div
+          <motion.div
             animate={{
               boxShadow: [
                 "0 0 0px rgba(0,0,0,0)",
@@ -64,7 +64,7 @@ const Contact = () => {
           </div>
         </div>
         <div className="card flex flex-row gap-5 bg-gray-100 text-gray-700 p-4 w-100">
-            <motion.div
+          <motion.div
             animate={{
               boxShadow: [
                 "0 0 0px rgba(0,0,0,0)",
