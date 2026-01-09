@@ -42,11 +42,11 @@ const Projects = () => {
                 Bankist App
               </h1>
               <p className="text-gray-600 p-2">
-                Bankist App with register and Login Page
+                Bankist App with register(modal) and Login Page
               </p>
             </div>
             <div>
-              <a target="blank" href="">
+              <a target="blank" href="https://bankist-app-azure.vercel.app/">
                 <SquareArrowOutUpLeft
                   size={35}
                   className="text-black cursor-pointer hover:text-blue-700 mr-5"
@@ -68,7 +68,10 @@ const Projects = () => {
               </p>
             </div>
             <div>
-              <a target="blank" href="">
+              <a
+                target="blank"
+                href="https://yousef-sheha12.github.io/Phones-Store/"
+              >
                 <SquareArrowOutUpLeft
                   size={35}
                   className="text-black cursor-pointer hover:text-blue-700 mr-5"
