@@ -70,7 +70,7 @@ const Projects = () => {
             <div>
               <a
                 target="blank"
-                href="https://yousef-sheha12.github.io/Phones-Store/"
+                href="https://github.com/yousef-sheha12/Phones-Store"
               >
                 <SquareArrowOutUpLeft
                   size={35}
@@ -93,7 +93,7 @@ const Projects = () => {
             <div>
               <a
                 target="blank"
-                href="https://yousef-sheha12.github.io/Clothes-Website/"
+                href="https://github.com/yousef-sheha12/Clothes-Website"
               >
                 <SquareArrowOutUpLeft
                   size={35}
@@ -232,10 +232,7 @@ const Projects = () => {
               </p>
             </div>
             <div>
-              <a
-                target="blank"
-                href="https://static-weather-app-git-main-yousef-sheha12s-projects.vercel.app/"
-              >
+              <a target="blank" href="https://static-weather-app.vercel.app/">
                 <SquareArrowOutUpLeft
                   size={35}
                   className="text-black cursor-pointer hover:text-blue-700 mr-5"
