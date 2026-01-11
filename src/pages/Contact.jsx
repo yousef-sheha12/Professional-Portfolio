@@ -17,7 +17,7 @@ const Contact = () => {
             Contacts
           </motion.div>
         </h1>
-        <div className="card flex flex-row gap-5 bg-gray-100 text-gray-700 p-4 w-100">
+        <div className="card flex flex-row gap-5 bg-gray-100 text-gray-700 p-4 md:w-100 w-full">
           <motion.div
             animate={{
               boxShadow: [
@@ -40,7 +40,7 @@ const Contact = () => {
             <h1 className="font-bold">joesheha8757@gmail.com</h1>
           </div>
         </div>
-        <div className="card flex flex-row gap-5 bg-gray-100 text-gray-700 p-4 w-100">
+        <div className="card flex flex-row gap-5 bg-gray-100 text-gray-700 p-4 md:w-100 w-full">
           <motion.div
             animate={{
               boxShadow: [
@@ -63,7 +63,7 @@ const Contact = () => {
             <h1 className="font-bold">+201092632833</h1>
           </div>
         </div>
-        <div className="card flex flex-row gap-5 bg-gray-100 text-gray-700 p-4 w-100">
+        <div className="card flex flex-row gap-5 bg-gray-100 text-gray-700 p-4 md:w-100 w-full">
           <motion.div
             animate={{
               boxShadow: [
