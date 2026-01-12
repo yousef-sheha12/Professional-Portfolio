@@ -57,31 +57,6 @@ const Projects = () => {
         </div>
 
         <div className="card hover:scale-105 cursor-pointer bg-gray-400 rounded-2xl transition duration-1000">
-          <img src={phones} className="w-full h-60" />
-          <div className="flex justify-between items-center">
-            <div>
-              <h1 className="text-2xl text-black font-semibold p-2">
-                Phones E-commerce
-              </h1>
-              <p className="text-gray-600 p-2">
-                Phones E-commerce with [React]
-              </p>
-            </div>
-            <div>
-              <a
-                target="blank"
-                href="https://github.com/yousef-sheha12/Phones-Store"
-              >
-                <SquareArrowOutUpLeft
-                  size={35}
-                  className="text-black cursor-pointer hover:text-blue-700 mr-5"
-                />
-              </a>
-            </div>
-          </div>
-        </div>
-
-        <div className="card hover:scale-105 cursor-pointer bg-gray-400 rounded-2xl transition duration-1000">
           <img src={clothes} className="w-full h-60" />
           <div className="flex justify-between items-center">
             <div>
@@ -210,6 +185,31 @@ const Projects = () => {
               <a
                 target="blank"
                 href="https://to-do-list-app-red-six.vercel.app/"
+              >
+                <SquareArrowOutUpLeft
+                  size={35}
+                  className="text-black cursor-pointer hover:text-blue-700 mr-5"
+                />
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div className="card hover:scale-105 cursor-pointer bg-gray-400 rounded-2xl transition duration-1000">
+          <img src={phones} className="w-full h-60" />
+          <div className="flex justify-between items-center">
+            <div>
+              <h1 className="text-2xl text-black font-semibold p-2">
+                Phones E-commerce
+              </h1>
+              <p className="text-gray-600 p-2">
+                Phones E-commerce with [React]
+              </p>
+            </div>
+            <div>
+              <a
+                target="blank"
+                href="https://github.com/yousef-sheha12/Phones-Store"
               >
                 <SquareArrowOutUpLeft
                   size={35}
